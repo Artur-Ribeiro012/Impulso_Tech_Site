@@ -1,0 +1,30 @@
+@charset "UFT-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: green;
+    color: #333;
+}   
+
+menu {
+    display: flex;
+}
+
+nav ul {
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+}
+
+li {
+    
+    padding: 10px 20px;
+}
